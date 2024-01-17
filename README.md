@@ -51,5 +51,5 @@ Choosing appropriate hyperparameters can be challenging, given the training time
 The `checkpoint.pth` file contains information about a network trained to recognize 102 different flower species. Specific hyperparameters are crucial for successful predictions. To use the pretrained model for an image located at `/path/to/image`, execute: `python predict.py /path/to/image checkpoint.pth`
 
 ## This was the Second project of AI programming with Python Nandegree that I have already graduated from
-Confirmation  link: [link](confirm.udacity.com/7JTCKYM9)
+Confirmation  link: [link](https://graduation.udacity.com/confirm/7JTCKYM9)
 ![Certificate](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/d371f694-fa60-40a1-9112-a5a9721aa8e7.svg)
